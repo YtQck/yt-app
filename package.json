@@ -1,6 +1,6 @@
 {
   "name": "yt-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "YouTube quick play with almost nil clicks and a better speed - not loading most of the shits and dumbs like ads.",
   "main": "index.js",
   "scripts": {
